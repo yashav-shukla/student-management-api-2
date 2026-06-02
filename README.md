@@ -359,7 +359,7 @@ routes/studentRoutes.js
 ## 👨‍💻 Author
 
 <p align="center">
-  <a href="https://github.com/yashavshukla">
+  <a href="https://github.com/yashav-shukla">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
   </a>
 </p>
@@ -369,13 +369,13 @@ routes/studentRoutes.js
 </p>
 
 <p align="center">
-  <a href="https://github.com/yashavshukla">
+  <a href="https://github.com/yashav-shukla">
     GitHub Profile
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/yashavshukla/student-management-api-2">
+  <a href="https://github.com/yashav-shukla/student-management-api-2">
     Project Repository
   </a>
 </p>
